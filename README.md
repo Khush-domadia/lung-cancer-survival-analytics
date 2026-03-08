@@ -73,7 +73,7 @@ An interactive Tableau dashboard was developed to enable:
 - Visual interpretation of Cox model hazard ratios
 
 🔗 **Tableau Public Dashboard:**  
-*[Dashboard link]([url](https://public.tableau.com/app/profile/khush.domadiya/viz/ClinicalMolecularandSurvivalPatternsinLungCancer/Dashboard2?publish=yes))*
+*([url](https://public.tableau.com/app/profile/khush.domadiya/viz/ClinicalMolecularandSurvivalPatternsinLungCancer/Dashboard2?publish=yes)[[Dashboard link]](url))*
 
 ---
 
