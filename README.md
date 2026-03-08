@@ -92,10 +92,8 @@ An interactive Tableau dashboard was developed to enable:
 lung-cancer-survival-analytics/
 ├── Healthcare_data_visualization.ipynb
 ├── Survival_model.ipynb
-├── data/
-│   └── *.csv
-├── tableau/
-│   └── *.twb / *.twbx
+├── CSVs
+├── tableau file
 └── README.md
 ```
 
