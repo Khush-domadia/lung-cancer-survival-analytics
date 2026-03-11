@@ -89,11 +89,17 @@ An interactive Tableau dashboard was developed to enable:
 ## 📁 Repository Structure
 
 ```
-lung-cancer-survival-analytics/
-├── Healthcare_data_visualization.ipynb
-├── Survival_model.ipynb
-├── CSVs
-├── tableau file
+📦 lung-cancer-survival-analytics
+├── csv/
+│   ├── Clinical_Data_Discovery_Cohort.csv
+│   ├── Clinical_Data_Validation_Cohort.xlsx
+│   ├── cox_penalized_hr.csv
+│   └── validation_tableau.csv
+├── code/
+│   ├── Healthcare_data_visualization.ipynb
+│   └── Survival_model.ipynb
+├── Oncology.twb
+├── .gitignore
 └── README.md
 ```
 
